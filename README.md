@@ -1,4 +1,4 @@
-🚀 Hey there, I'm @JasperMunene!
+- 🚀 Hey there, I'm @JasperMunene!
 - 👁️‍🗨️ I specialize in crafting captivating websites that leave users in awe and hungry for more!
 - 🎓 I've successfully conquered the world of fullstack development and mastered the art of creating delightful user experiences.
 - 💡 Currently on the lookout for thrilling collaborations on cutting-edge web projects where innovation meets creativity. Ready to join forces and create something extraordinary together!
