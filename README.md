@@ -1,4 +1,3 @@
-[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Jasper Munene</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
