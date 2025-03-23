@@ -1,8 +1,7 @@
 # <div align="center">👋 Hi, I'm Jasper Munene</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JwY3V6b3ZtN3l4a3h5ZzJ1bW5hNnJ1dHJ5aDZ0a2h5dHh6bjN5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation">
-
+ 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=600&lines=🚀+Fullstack+Developer;🤖+ML+%26+LLMs+for+Health-Tech+and+Commerce;⚡+Scalable+Solutions+Architect)](https://git.io/typing-svg)
 </div>
 
@@ -66,6 +65,7 @@ const experiments = {
 ### Tools & Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ### AI/ML Stack
