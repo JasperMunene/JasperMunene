@@ -14,7 +14,7 @@
 
 ## 🔥 What I'm Up To
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
@@ -86,7 +86,7 @@ const experiments = {
 
 ## 💭 Behind the Code
 
-<table>
+<table align="center">
 <tr>
 <td width="200px" align="center">
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100" alt="Innovation">
